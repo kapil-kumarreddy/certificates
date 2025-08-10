@@ -1,2 +1,4 @@
 # certificates
 certificates | google_cybersecurity_professional_certificate | python_for_everybody_specialization_certificate
+google_cybersecurity_professional_certificate(link): https://coursera.org/share/2e638bab568aaf5dcff3b5f10251fa47
+python_for_everybody_specialization_certificate(link): https://coursera.org/share/4f325444b09d2cb98bea8a5565566a8d
