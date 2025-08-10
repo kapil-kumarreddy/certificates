@@ -1,0 +1,2 @@
+# certificates
+certificates | google_cybersecurity_professional_certificate | python_for_everybody_specialization_certificate
